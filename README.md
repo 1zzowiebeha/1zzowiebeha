@@ -7,6 +7,7 @@ Here is the technology stack I am learning:
 - CSS
 - Javascript
 - PostgreSQL
+- Odoo 
 - Django
 - Django REST Framework
 - AWS
