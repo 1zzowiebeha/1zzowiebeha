@@ -3,12 +3,13 @@
 I am a backend web-developer.
 
 Here is the technology stack I am learning:
-HTML
-CSS
-Javascript
-PostgreSQL
-Django
-AWS
+- HTML
+- CSS
+- Javascript
+- PostgreSQL
+- Django
+- Django REST Framework
+- AWS
 
 <!--
 **1zzowiebeha/1zzowiebeha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
