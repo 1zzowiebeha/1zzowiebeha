@@ -2,15 +2,7 @@
 
 I am a backend web-developer.
 
-Here is the technology stack I am learning:
-- HTML
-- CSS
-- Javascript
-- PostgreSQL
-- Odoo 
-- Django
-- Django REST Framework
-- AWS
+The stack I am learning includes AWS, PostgreSQL, Python, Django, HTML, and CSS.
 
 <!--
 **1zzowiebeha/1zzowiebeha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
