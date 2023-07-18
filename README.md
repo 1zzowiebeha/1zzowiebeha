@@ -2,7 +2,7 @@
 
 I am a backend web-developer.
 
-The stack I am learning includes AWS, PostgreSQL, Python, Django, HTML, and CSS.
+The stack I am learning includes AWS, Git, PostgreSQL, Python, Django, HTML, and CSS.
 
 <!--
 **1zzowiebeha/1zzowiebeha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
