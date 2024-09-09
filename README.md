@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-I am a backend web-developer.
+Welcome to my Github.
+This is where I store my personal and academic projects.
 
-The stack I am learning includes Django, Python, PostgreSQL, AWS, Git, HTML, and CSS.
+I'm currently learning HTML, CSS, JavaScript, and JQuery.
+
+I've worked with Django, Python, and PostgreSQL in my hobby projects.
+
+Want to connect? Feel free to reach out to me on my Linkedin :)
 
 <!--
 **1zzowiebeha/1zzowiebeha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
