@@ -5,7 +5,7 @@ This is where I store my personal and academic projects.
 
 🌱 I'm currently learning HTML, and CSS.
 
-💻 I've worked with Django, Python, and PostgreSQL in my hobby projects.
+💻 I've worked with C#, Django, Python, and PostgreSQL in my hobby projects.
 
 Want to connect? Reach out to me on my [Linkedin](https://www.linkedin.com/in/zowie-beha-4b0498250) :)
 
