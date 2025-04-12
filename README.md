@@ -3,7 +3,7 @@
 Welcome to my Github.
 This is where I store my personal and academic projects.
 
-🌱 I'm currently learning HTML, and CSS.
+🌱 I'm currently learning HTML, CSS, Sass, and perhaps the javascript ecosystem..?
 
 💻 I've worked with C#, Django, Python, and PostgreSQL in my hobby projects.
 
