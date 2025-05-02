@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 Welcome to my Github.
 This is where I store my personal and academic projects.
@@ -7,7 +7,7 @@ Want to connect? Reach out to me on my [Linkedin](https://www.linkedin.com/in/zo
 
 🌱 I'm currently making projects in HTML, CSS, and Sass.
 
-## 🪃 My skill-set:
+## My skill-set 🪃:
 
 ### Strongest:
 HTML, CSS, Sass, Python, OOP
