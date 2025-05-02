@@ -3,9 +3,11 @@
 Welcome to my Github.
 This is where I store my personal and academic projects.
 
+Want to connect? Reach out to me on my [Linkedin](https://www.linkedin.com/in/zowie-beha-4b0498250) :)
+
 🌱 I'm currently making projects in HTML, CSS, and Sass.
 
-## My skill-set:
+## 🪃 My skill-set:
 
 ### Strongest:
 HTML, CSS, Sass, Python, OOP
@@ -15,9 +17,6 @@ Git, SQL, PostgreSQL, Django, WordPress, jQuery, jQuery UI
 
 ### Beginner:
 C#, .NET, Razor, SSMS, JavaScript, Node, WCAG, ARIA, Linux
-
-Want to connect? Reach out to me on my [Linkedin](https://www.linkedin.com/in/zowie-beha-4b0498250) :)
-
 <!--
 **1zzowiebeha/1zzowiebeha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
