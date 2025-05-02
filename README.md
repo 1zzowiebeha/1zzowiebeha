@@ -3,9 +3,9 @@
 Welcome to my Github.
 This is where I store my personal and academic projects.
 
-Want to connect? Reach out to me on my [Linkedin](https://www.linkedin.com/in/zowie-beha-4b0498250) :)
-
 🌱 I'm currently making projects in HTML, CSS, and Sass.
+
+I welcome all opportunities and contacts. Reach out to me on my [Linkedin](https://www.linkedin.com/in/zowie-beha-4b0498250) :)
 
 ## My skill-set 🪃:
 
