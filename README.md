@@ -3,9 +3,18 @@
 Welcome to my Github.
 This is where I store my personal and academic projects.
 
-🌱 I'm currently learning HTML, CSS, Sass, and perhaps the javascript ecosystem..?
+🌱 I'm currently making projects in HTML, CSS, and Sass.
 
-💻 I've worked with C#, Django, Python, and PostgreSQL in my hobby projects.
+## My skill-set:
+
+### Strongest:
+HTML, CSS, Sass, Python, OOP
+
+### Intermediate:
+Git, SQL, PostgreSQL, Django, WordPress, jQuery, jQuery UI
+
+### Beginner:
+C#, .NET, Razor, SSMS, JavaScript, Node, WCAG, ARIA, Linux
 
 Want to connect? Reach out to me on my [Linkedin](https://www.linkedin.com/in/zowie-beha-4b0498250) :)
 
