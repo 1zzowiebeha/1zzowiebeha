@@ -9,13 +9,13 @@ I welcome all opportunities and contacts. Reach out to me on my [Linkedin](https
 
 ## My skill-set 🪃:
 
-### Strongest 💪💪💪:
+### Strongest:
 HTML, CSS, Sass, Python, OOP
 
-### Intermediate 💪💪:
+### Intermediate:
 Git, SQL, PostgreSQL, Django, WordPress, jQuery, jQuery UI
 
-### Beginner 💪:
+### Beginner:
 C#, .NET, Razor, SSMS, JavaScript, Node, WCAG, ARIA, Linux
 <!--
 **1zzowiebeha/1zzowiebeha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
