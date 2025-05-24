@@ -5,7 +5,7 @@ This is where I store my personal and academic projects.
 
 I welcome all opportunities and contacts. Reach out to me on my [Linkedin](https://www.linkedin.com/in/zowie-beha-4b0498250) :)
 
-🌱 I'm currently making projects in HTML, CSS, and Sass.
+🌱 I'm currently making projects in Python, HTML, CSS, and Sass.
 
 ## My skill-set 🪃:
 
