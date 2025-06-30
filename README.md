@@ -3,6 +3,8 @@
 Welcome to my Github.
 This is where I store my personal and academic projects.
 
+## Contact 📬
+
 I welcome all contacts. If you'd like to contact me, reach out through [Linkedin](https://www.linkedin.com/in/zowie-beha-4b0498250) messages :)
 
 ## My skill-set 🪃:
