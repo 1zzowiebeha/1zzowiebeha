@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 Welcome to my Github.
-This is where I store my personal and academic projects.
 
 ## Contact 📬
 
@@ -10,6 +9,17 @@ I welcome all contacts. If you'd like to contact me, reach out through [Linkedin
 ## My skill-set 🪃:
 
 ### Strongest:
+HTML, CSS, Sass, Python
+
+### Intermediate:
+JavaScript, Git, jQuery
+
+### Beginner
+Node, WCAG, ARIA, SQL
+
+
+<!--
+### Strongest:
 HTML, CSS, Sass, Python, OOP
 
 ### Intermediate:
@@ -17,6 +27,7 @@ Git, SQL, PostgreSQL, Django, WordPress, jQuery, jQuery UI
 
 ### Beginner:
 C#, .NET, Razor, SSMS, JavaScript, Node, WCAG, ARIA, Linux
+-->
 <!--
 **1zzowiebeha/1zzowiebeha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
